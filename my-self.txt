@@ -1,0 +1,9 @@
+Hello everyone! 
+Let me introduce my self.
+My name is Ivandohan Samuel Siregar.
+I am a beginner programmer.
+I am interested in becoming a software engineer.
+I am a student at the University of North Sumatra.
+
+The skills that I have are c, c++, html, css, javascript, php, basic laravel.
+For now I'm maximizing my javascript and laravel skills.
