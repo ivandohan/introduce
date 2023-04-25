@@ -11,4 +11,7 @@ But as time passed, I became more interested in the most recent Backend technolo
 Golang, and Javascript.
 
 And as I learned more, I became more interested in Mobile App development by using Dart Flutter.
+
+
+
 What a waste of time XD.
