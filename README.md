@@ -2,7 +2,7 @@
 
 About My Self
 
-Hello, my name is Ivandohan. I'm a newbie programmer.
+Hello, my name is Ivandohan. Y'all guys can call me Dohan. I'm a newbie programmer. 
 
 I have skills to code C/C++, PHP, Java, Python, Javascript, Golang, and Dart.
 
