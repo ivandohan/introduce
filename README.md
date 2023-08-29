@@ -2,16 +2,7 @@
 
 About My Self
 
-Hello, my name is Ivandohan. Y'all guys can call me Dohan. I'm a newbie programmer. 
-
-I have skills to code C/C++, PHP, Java, Python, Javascript, Golang, and Dart.
-
-I got intrigued in Laravel programming when I initially started college. 
-But as time passed, I became more interested in the most recent Backend technology such as
-Golang, and Javascript.
-
-And as I learned more, I became more interested in Mobile App development by using Dart Flutter.
-
-
-
-What a waste of time XD.
+Student of Information Technology with a strong ambition to develop and contribute to the ever-changing world of technology. 
+Skilled in technology stacks such as Go, AWS Cloud, React, and Flutter. Eager to apply knowledge to real-world issues and work 
+with like-minded experts to develop impactful solutions. Always looking for new tech methods to broaden my skills and keep current 
+on industry trends. Excited to meet other tech enthusiasts, mentors and possible jobs.
