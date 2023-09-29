@@ -1,4 +1,4 @@
-# About My Self
+# Yooo
 
 Student of Information Technology with a strong ambition to develop and contribute to the ever-changing world of technology. 
 Skilled in technology stacks such as Go, AWS Cloud, React, and Flutter. Eager to apply knowledge to real-world issues and work 
